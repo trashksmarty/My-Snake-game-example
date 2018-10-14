@@ -11,7 +11,7 @@ public class Main extends JFrame{
 
     public Main(){
         setTitle("Змейка");
-        setSize(900, 900);
+        setSize(908, 943);
         setLocationRelativeTo(null);
         setResizable(false);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
